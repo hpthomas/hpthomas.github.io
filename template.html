@@ -1,0 +1,18 @@
+            
+            <div class='col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-{left_right} projects'>
+                <input type='checkbox' id='{short}-toggle'></input>
+                <div class='blocker'></div>
+                <label class='exit' for='{short}-toggle'><a>Exit</a></label>
+                <h3>{name}</h3>
+                <p class='link-bar'>
+                    <a href='{github-url}'>Github</a><a href='{full-url}'>Full Page</a><a><label for='{short}-toggle'>Expand</label></a>
+                </p>
+                <div class='overlay-wrap'>
+                    <iframe id='{short}-frame' frameBorder=0 width="100%" height="100%" src="{frame-url}"></iframe>
+                    <input type='checkbox' id='{short}-overlay' class='hide-overlay'></input>
+                    <label for ='{short}-overlay' class='overlay'>
+                        Play
+                    </label>
+                </div>
+            </div> 
+

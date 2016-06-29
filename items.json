@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "name": "Simon Says",
+            "short" : "simon",
+            "frame-url": "https://hpthomas.github.io/simon/full.html",
+            "github-url": "https://github.com/hpthomas/simon",
+            "full-url": "https://hpthomas.github.io/simon"
+        },
+        {
+            "name": "Tic Tac Toe",
+            "short" : "ttt",
+            "frame-url": "https://hpthomas.github.io/tic-tac-toe/full.html",
+            "github-url": "https://github.com/hpthomas/tic-tac-toe",
+            "full-url": "https://hpthomas.github.io/tic-tac-toe"
+        },
+        {
+            "name": "Javscript Calculator",
+            "short" : "calc",
+            "frame-url": "https://hpthomas.github.io/js-calculator/full.html",
+            "github-url": "https://github.com/hpthomas/js-calculator",
+            "full-url": "https://hpthomas.github.io/js-calculator"
+        },
+        {
+            "name": "Random Quote Machine",
+            "short" : "quotes",
+            "frame-url": "http://hpthomas.github.io/quotes/full.html",
+            "github-url": "https://github.com/hpthomas/quotes",
+            "full-url": "http://hpthomas.github.io/quotes"
+        }
+   ],
+    "outline" : "outline.html",
+    "template" : {
+        "file" : "template.html",
+        "start" : "<div class='row projects'>",
+        "left":"2",
+        "right":"0",
+        "end":"</div>"
+    }
+}
