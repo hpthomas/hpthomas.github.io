@@ -24,7 +24,7 @@
         {
             "name": "Random Quote Machine",
             "short" : "quotes",
-            "frame-url": "http://hpthomas.github.io/quotes/full.html",
+            "frame-url": "https://hpthomas.github.io/quotes/full.html",
             "github-url": "https://github.com/hpthomas/quotes",
             "full-url": "http://hpthomas.github.io/quotes"
         }
